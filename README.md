@@ -35,6 +35,8 @@ I included a "simplified names"-list.
 The script will use commonly known abbreviations instead of the full name (if defined). 
 Example: "Robe of the Grand Sorcerer" becomes "GSORC"
 
+Inspired by other websites like poe.trade for Path of Exile. 
+
 # Related projects from me
 [Simpler-RotMG](https://github.com/GerRudi/SimpleR-RotMG)
 1-click wrapper for RotMG with chat macros, different fullscreen options and other features. 
