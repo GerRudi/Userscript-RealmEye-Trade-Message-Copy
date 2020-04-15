@@ -5,6 +5,8 @@
 // @downloadURL	https://github.com/GerRudi/Userscript-RealmEye-Trade-Message-Copy/raw/master/RE-Trade-Message-Copy.user.js
 // @version      0.1
 // @description  Adds a button next to every Realmeye offer to be able to quickly send a message to the seller.
+// @homepageURL https://github.com/GerRudi/Userscript-RealmEye-Trade-Message-Copy
+// @supportURL  https://github.com/GerRudi/Userscript-RealmEye-Trade-Message-Copy/issues
 // @author       GerRudi
 // @match        https://www.realmeye.com/offers-to/*
 // @grant        none
