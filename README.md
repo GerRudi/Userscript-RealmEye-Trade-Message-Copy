@@ -28,7 +28,7 @@ To use it, open a trading page on RealmEye and click on the bookmark.
 # Disclaimer
 
 Userscripts inject 3rd-party code to existing websites. Any update to the RealmEye website can break this script and it will stop working. This script obviously comes with no warranty. 
-
+Tested & confirmed working: FireFox
 
 # Hints
 I included a "simplified names"-list. 
