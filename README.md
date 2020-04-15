@@ -7,10 +7,10 @@ This script adds a button next to every Realmeye offer to be able to quickly sen
 
 # How to use
 
-## Method 1 (Recommended): Userscript - always adds the button next to an offer
+## Method 1 (RECOMMENDED): Userscript - always adds the button next to an offer
 This requires a userscript manager like [Tampermonkey](https://tampermonkey.net/). 
 
-Click [HERE](../../raw/master/RE-Trade-Message-Copy.user.js) to add the script to your browser. 
+### Click [HERE](../../raw/master/RE-Trade-Message-Copy.user.js) to add the script to your browser. 
 
 
 
