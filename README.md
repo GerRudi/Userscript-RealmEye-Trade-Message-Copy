@@ -2,6 +2,8 @@
 This script adds a button next to every Realmeye offer to be able to quickly send a message to the seller. 
 (Copies the message to the clipboard)
 
+![Sample screenshot](https://i.imgur.com/8bKmqP7.png "Example Screenshot")
+
 
 # How to use
 
