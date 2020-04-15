@@ -11,6 +11,8 @@ This requires a userscript manager like [Tampermonkey](https://tampermonkey.net/
 Click [HERE](../../raw/master/RE-Trade-Message-Copy.user.js) to add the script to your browser. 
 
 
+
+
 ## Method 2 (Runs once on demand): Manually activate the button via a bookmarklet
 If you only want to use this script sometimes, create a new bookmark in your browser with the following target: 
 
@@ -19,3 +21,8 @@ javascript:(function()%7Bvar%20ezItems%3D%20%7B%0A%0A2591%3A%20%5B%22ATT%22%5D%2
 ```
 
 To use it, open a trading page on RealmEye and click on the bookmark. 
+
+
+# Disclaimer
+
+Userscripts inject 3rd-party code to existing websites. Any update to the RealmEye website can break this script and it will stop working. 
