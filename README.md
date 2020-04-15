@@ -25,4 +25,14 @@ To use it, open a trading page on RealmEye and click on the bookmark.
 
 # Disclaimer
 
-Userscripts inject 3rd-party code to existing websites. Any update to the RealmEye website can break this script and it will stop working. 
+Userscripts inject 3rd-party code to existing websites. Any update to the RealmEye website can break this script and it will stop working. This script obviously comes with no warranty. 
+
+
+# Hints
+I included a "simplified names"-list. 
+The script will use commonly known abbreviations instead of the full name (if defined). 
+Example: "Robe of the Grand Sorcerer" becomes "GSORC"
+
+# Related projects from me
+[Simpler-RotMG](https://github.com/GerRudi/SimpleR-RotMG)
+1-click wrapper for RotMG with chat macros, different fullscreen options and other features. 
