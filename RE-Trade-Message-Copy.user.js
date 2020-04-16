@@ -10,9 +10,9 @@
 // @author       GerRudi
 // @match        https://www.realmeye.com/offers-to/*
 // @grant        none
-// ==/UserScript==
 // @require https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
 // @require https://www.realmeye.com/s/dy/js/definition.js
+// ==/UserScript==
 
 (function() {
     'use strict';
