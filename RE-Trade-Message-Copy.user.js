@@ -13,7 +13,7 @@
 // @require https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
 // @require https://www.realmeye.com/s/dy/js/definition.js
 // ==/UserScript==
-
+this.$ = this.jQuery = jQuery.noConflict(true);
 (function() {
     'use strict';
 
