@@ -81,7 +81,7 @@ $(".startPM").on("click", function(){
 				//for each item : quantity
 				var quant =  $(this).find('.item-quantity-static').text();
 				quant=$.trim(quant);
-
+                                quant=quant.replace('×', 'x');
 
 				var oneItem = { 'id': itID, 'quantity': quant };
 				sellinfo.push(oneItem);
@@ -102,7 +102,7 @@ $(".startPM").on("click", function(){
 				//for each item : quantity
 				var quant =  $(this).find('.item-quantity-static').text();
 				quant=$.trim(quant);
-
+                                quant=quant.replace('×', 'x');
 
 				var oneItem = { 'id': itID, 'quantity': quant };
 				buyinfo.push(oneItem);
