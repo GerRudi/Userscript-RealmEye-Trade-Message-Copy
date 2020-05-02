@@ -48,7 +48,8 @@ var ezItems= {
 2986: ["Unbound Magic"],
 2821: ["GSORC"],
 2812: ["ACROP"],
-2809: ["HYDRA"]
+2809: ["HYDRA"],
+1826: ["INC"]
 
 };
 
@@ -121,7 +122,7 @@ $(".startPM").on("click", function(){
 	});
 
 	// Construct message
-	var tellMSG="/tell " + sellername + " Hi, I would like to BUY <"
+	var tellMSG="/tell " + sellername + " Hi, I would like to BUY ||"
 
 	var spacer =""
 
@@ -141,7 +142,7 @@ $(".startPM").on("click", function(){
 
 	});
 
-	tellMSG=tellMSG+"> with <"
+	tellMSG=tellMSG+"|| with ||"
 
 	buyinfo.forEach(function (item, index) {
 
@@ -157,7 +158,7 @@ $(".startPM").on("click", function(){
 
 	});
 
-	tellMSG=tellMSG+">"
+	tellMSG=tellMSG+"||"
 
 	console.log(tellMSG);
 
