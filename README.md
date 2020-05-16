@@ -1,6 +1,7 @@
 # Userscript: RealmEye Trade-Message-Copy (TMC)
 This script adds a button next to every Realmeye offer to be able to quickly send a message to the seller. 
 (Copies the message to the clipboard)
+- Making trading in RotMG more convenient
 
 ![Sample screenshot](./res/sample-screenshot.png "Example Screenshot")
 
@@ -16,7 +17,7 @@ This requires a userscript manager like [Tampermonkey](https://tampermonkey.net/
 
 
 
-## Method 2 (Runs once on demand): Manually activate the button via a bookmarklet
+### Method 2 (Runs once on demand): Manually activate the button via a bookmarklet
 If you only want to use this script sometimes, create a new bookmark in your browser with the following target: 
 
 ```
@@ -29,7 +30,7 @@ To use it, open a trading page on RealmEye and click on the bookmark.
 # Disclaimer
 
 Userscripts inject 3rd-party code to existing websites. Any update to the RealmEye website can break this script and it will stop working. This script obviously comes with no warranty. 
-Tested & confirmed working: FireFox
+Tested & confirmed working: FireFox with Tampermonkey and Greasemonkey
 
 # Hints
 I included a "simplified names"-list. 
@@ -40,4 +41,4 @@ Inspired by other websites like poe.trade for Path of Exile.
 
 # Related projects from me
 [Simpler-RotMG](https://github.com/GerRudi/SimpleR-RotMG)
-1-click wrapper for RotMG with chat macros, different fullscreen options and other features. 
+1-click wrapper for Realm of the Mad God with chat macros, different fullscreen options and other features. 
